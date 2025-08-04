@@ -34,4 +34,5 @@ Simulated Blinkit data covering product sales, outlet details, item types, fat c
   - Donut and bar charts  
   - Dashboard UI with layout icons and branding
  
-    https://github.com/SamikshaDhas/exceldashboard/blob/main/Screenshot%202025-08-03%20175515.png
+   
+![Dashboard Screenshot]( https://github.com/SamikshaDhas/exceldashboard/blob/main/Screenshot%202025-08-03%20175515.png)
